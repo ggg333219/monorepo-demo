@@ -1,0 +1,1 @@
+export const getSdkMessage = () => "Hello from SDK Source Code!";

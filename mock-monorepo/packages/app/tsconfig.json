@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": false,
+    "baseUrl": ".",
+    "paths": {
+      "@sdk/*": ["../sdk/src/*"]
+    }
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
